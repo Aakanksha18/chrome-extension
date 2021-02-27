@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "The Launcher",
+    "description": "Quick Launch Traversy Media",
+    "version": "1.0.0",
+    "icons":{ "128": "image_128.jpeg" },
+    "browser_action":{
+        "default_icon": "image_19.jpeg",
+        "default_popup": "popup.html" 
+    },
+    "permissions": ["activeTab"]
+
+
+}
